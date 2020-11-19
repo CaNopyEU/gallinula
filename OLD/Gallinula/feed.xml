@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:C818FD2B-8451-4EB9-A07B-F773F683E4E1</id>
+ <title>Page list Atom feed</title>
+ <updated>2019-01-22T1:11:08+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:828CFC57-13D4-4DEC-A123-2E487C2228E8</id>
+  <title>Site under construction</title>
+  <title xmlns="urn:iweb:">Site under construction</title>
+  <in-navbar xmlns="urn:iweb:">828CFC57-13D4-4DEC-A123-2E487C2228E8</in-navbar>
+  <link rel="alternate" href="Site_under_construction.html"/>
+  <updated>2019-01-22T1:11:08.001+01:00</updated>
+  <content>Site under construction</content>
+ </entry>
+</feed>

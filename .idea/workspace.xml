@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a859ba30-3f37-4133-b5ac-20b0894a77fe" name="Default Changelist" comment="zarovnani">
+      <change afterPath="$PROJECT_DIR$/images/action_d1/d1_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/action_d1/d1_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/action_d1/d1_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/action_d1/d1_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/action_pacejov/action_pacejov_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/action_pacejov/action_pacejov_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/action_pacejov/action_pacejov_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/action_pacejov/action_pacejov_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/action_pacejov/action_pacejov_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bagry_kov/bagry_kov_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bagry_kov/bagry_kov_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bagry_kov/bagry_kov_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bagry_kov/bagry_kov_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bagry_kov/bagry_kov_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bagry_kov/bagry_kov_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/others/oth_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tracs/tracs_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tracs/tracs_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/trafic/trafic_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vozidla.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_gallery.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_gallery.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prodej.php" beforeDir="false" afterPath="$PROJECT_DIR$/prodej.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <list id="645bb083-bd79-4116-b469-abe1ffea3726" name="initial" comment="">
+      <change beforePath="$PROJECT_DIR$/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLD/assets.http:--www.gallinula.cz.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/images/arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/dark-arrow.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/images/dark-arrow.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/poptrox-closer.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/images/poptrox-closer.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/images/poptrox-nav.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/images/poptrox-nav.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/breakpoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/breakpoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/browser.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/browser.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.poptrox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.scrollex.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery.scrolly.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_page.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_page.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_actions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_actions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_box.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_box.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_form.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_form.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icon.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icon.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_icons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_image.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_image.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_list.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_list.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_poptrox-popup.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_poptrox-popup.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_section.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_section.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_table.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_table.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_functions.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/libs/_vars.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form-to-email.php" beforeDir="false" afterPath="$PROJECT_DIR$/form-to-email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recyklace.php" beforeDir="false" afterPath="$PROJECT_DIR$/recyklace.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sluzby.php" beforeDir="false" afterPath="$PROJECT_DIR$/sluzby.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/style.css">
+      <ranges>
+        <range start1="0" end1="1" start2="0" end2="1" changelist="645bb083-bd79-4116-b469-abe1ffea3726" />
+        <range start1="8" end1="9" start2="8" end2="9" changelist="645bb083-bd79-4116-b469-abe1ffea3726" />
+        <range start1="70" end1="70" start2="70" end2="255" changelist="a859ba30-3f37-4133-b5ac-20b0894a77fe" />
+      </ranges>
+    </file>
+    <file path="$PROJECT_DIR$/header.html">
+      <ranges>
+        <range start1="22" end1="25" start2="22" end2="27" changelist="645bb083-bd79-4116-b469-abe1ffea3726" />
+        <range start1="30" end1="30" start2="32" end2="33" changelist="a859ba30-3f37-4133-b5ac-20b0894a77fe" />
+      </ranges>
+    </file>
+  </component>
+  <component name="ProjectId" id="1kQN0wMgg6kG9UduoEknZCu98QK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a859ba30-3f37-4133-b5ac-20b0894a77fe" name="Default Changelist" comment="" />
+      <changelist id="645bb083-bd79-4116-b469-abe1ffea3726" name="initial" comment="" />
+      <created>1605628636233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605628636233</updated>
+      <workItem from="1605628637506" duration="45418000" />
+      <workItem from="1605802619651" duration="1550000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial">
+      <created>1605629239738</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605629239738</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <MESSAGE value="zarovnani" />
+    <option name="LAST_COMMIT_MESSAGE" value="zarovnani" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="807" y="433" key="VCS.ChangelistChooser" timestamp="1605636300363">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="433" key="VCS.ChangelistChooser/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605636300363" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605636407212">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605636407212" />
+    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1605803055725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="119" width="585" height="801" key="find.popup/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605803055725" />
+    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605653930634" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605804061300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605804061300" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1605648326186" />
+  </component>
+</project>
