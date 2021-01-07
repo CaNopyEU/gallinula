@@ -110,7 +110,7 @@ include 'header.html';
                 <div class="modal-content">
                     <div class="modal-header">
                         <span class="close">&times;</span>
-                        <h2 id="modal_header_name">Jmeno galerie</h2> <!--TODO: brat jmeno galerie z constanty-->
+                        <h2 id="modal_header_name"></h2>
                     </div>
                     <div id="inner_image" class="modal-body"></div>
                     <div id="modal_counters"></div>
@@ -273,6 +273,13 @@ include 'header.html';
         modal.style.display = "none";
       };
 
+      document.onkeydown = function(evt) {
+        evt = evt || window.event;
+        if (evt.keyCode == 27) {
+          modal.style.display = "none";
+        }
+      };
+
       // When the user clicks anywhere outside of the modal, close it
       window.onclick = function (event) {
         if (event.target === modal) {
@@ -384,6 +391,7 @@ include 'header.html';
       }
 
       function openModal(name) {
+        slideIndex = 1;
         modal.style.display = "block";
         showSlides(slideIndex, name);
       }
