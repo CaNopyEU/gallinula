@@ -52,6 +52,10 @@ a:active {
     text-decoration: none;
 }
 
+.active {
+    cursor: none;
+}
+
 thead{
     background-color: #f5f6f7;
 }
@@ -141,17 +145,19 @@ thead{
     padding: 2px 16px;
     color: white;
 }
-.contrast {filter: contrast(70%);}
+.contrast {
+    filter: contrast(70%);
+    cursor: pointer;
+}
 .row {
-    height: 60px;
+    height: 70px;
     display: flex;
     justify-content: center;
     width: 100%;
     margin: 0;
-    flex-wrap: wrap;
+    overflow-x: auto;
+    overflow-y: hidden;
     flex-flow: row;
-
-
 }
 @media screen and (max-width: 1480px){
     .row {

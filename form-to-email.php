@@ -55,7 +55,7 @@ if(substr_count($_text, 'http://') > 5 ){
         $email_body = "Přišla Vám nová zpráva z webu Gallinula od uživatele - $_jmeno.\n" .
             "Zpráva :\n $_text";
 
-        $to = "outcast.slovakia@gmail.com";//<== adresa m�sta odesl�n�
+        $to = "gallinula@email.cz";//<== adresa m�sta odesl�n�
         $headers = "From: $email_from \r\n";
         $headers .= "Reply-To: $_email \r\n";
         //Send the email!
